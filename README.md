@@ -1,6 +1,6 @@
-### 👨🏻‍💻 Front End Engineer 
+### 👨🏻‍💻  Front End Engineer 
 
-### 🛠  Using React Native, React.js
+### 🛠  React Native, React.js
 
   <div align=center>
 	
