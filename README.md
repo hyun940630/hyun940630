@@ -4,7 +4,7 @@
 
 ### 👀  Node.js, Machine Learning, ...
 
-### "Division and Conquer"
+### 👊  "Division and Conquer"
 
   <div align=center>
 	
