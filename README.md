@@ -1,10 +1,10 @@
-### 👨🏻‍💻  Front End Engineer 
+### 👨🏻‍💻   Front End Engineer 
 
-### 🛠  React Native, React.js
+### 🛠   React Native, React.js
 
-### 👀  Node.js, Machine Learning, ...
+### 👀   Node.js, JavaScript Framework, Machine Learning, ...
 
-### 👊  "Division and Conquer"
+### 👊   "Division and Conquer"
 
   <div align=right>
 	
