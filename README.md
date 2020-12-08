@@ -1,6 +1,6 @@
 ### 👨🏻‍💻   Front End Engineer 
 
-### 🛠   React Native, React.js
+### 🛠   React Native, React
 
 ### 👀   Node.js, JavaScript Framework, Machine Learning, ...
 
