@@ -1,6 +1,6 @@
 #### 👨🏻‍💻   Front End Engineer 
 
-#### 🛠   React Native, React, JS, TS
+#### 🛠   React Native, React, JavaScript, TypeScript
 
 #### 👀   Software Architecture, Machine Learning, JavaScript Framework
 
