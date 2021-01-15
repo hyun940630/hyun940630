@@ -1,8 +1,8 @@
 #### 👨🏻‍💻   Front End Engineer 
 
-#### 🛠   React Native, React, JavaScript, TypeScript
+#### 🛠   React Native, React, JavaScript, TypeScript, Swift, Spring
 
-#### 👀   Software Architecture, Machine Learning, JavaScript Framework
+#### 👀   Software Architecture, Machine Learning, iOS, Spring, JavaScript Framework
 
 #### 👊   "Division and Conquer"
 
