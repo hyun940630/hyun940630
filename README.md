@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun940630)](https://hits.seeyoufarm.com)
   
 
-### Hello, I'm Hyun(xtring)!
+### 👋🏻 Hello, I'm Hyun(xtring)!
 
 I am a front-end developer from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
 
@@ -9,8 +9,13 @@ If you want to contact me, please leave me a message!
 
 <br />
 
-### Skills
-I'm using **React, React Native, TypeScript, Swift, Spring**
+### 🛠 Skills
+I'm using 
+ - **React**
+ - **React Native**
+ - **TypeScript**
+ - **Swift**
+ - **Spring Framework**
 
 <br />
 
