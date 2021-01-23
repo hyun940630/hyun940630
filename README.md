@@ -22,12 +22,6 @@ I'm using **React, React Native, TypeScript, Swift, Spring**
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-  <div align="left">
-  ![xtring's github stats](https://github-readme-stats.vercel.app/api?username=hyun940630&show_icons=true&theme=radical)
-  ![Github TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&layout=compact&theme=dracula)
-  </div>
+</td></tr></table> 
