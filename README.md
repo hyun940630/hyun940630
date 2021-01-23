@@ -10,7 +10,7 @@ If you want to contact me, please leave me a message!
 <br />
 
 ### Skills
-I'm using React, React Native, TypeScript, Swift, Spring
+I'm using **React, React Native, TypeScript, Swift, Spring**
 
 <br />
 
