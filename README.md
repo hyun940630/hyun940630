@@ -27,6 +27,6 @@ I'm using
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&hide_border=true&layout=compact&theme=dracula" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyun940630&hide_border=true&layout=compact&theme=algolia" align="left" style="width: 100%" />
 
 </td></tr></table> 
