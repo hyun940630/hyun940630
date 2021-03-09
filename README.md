@@ -5,7 +5,9 @@
 
 I am a front-end developer from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
 
-If you want to contact me, please leave me a message!
+If you want to contact me, please leave me a message! 
+
+and [more](https://xtring-dev.tistory.com/)
 
 <br />
 
@@ -13,8 +15,8 @@ If you want to contact me, please leave me a message!
 I'm using 
  - **React**
  - **React Native**
- - **TypeScript**
- - **Swift**
+ - **JavaScript(ES6) & TypeScript**
+ - **iOS(Swift)**
  - **Spring Framework**
 
 <br />
