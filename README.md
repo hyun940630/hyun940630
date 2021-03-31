@@ -3,7 +3,7 @@
 
 ### 👋🏻 Hello, I'm Hyun(xtring)!
 
-I am a front-end developer from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
+I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
 
 If you want to contact me, please leave me a message! 
 
