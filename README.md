@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyun940630)](https://hits.seeyoufarm.com)
   
 
-### 👋🏻 Hello, I'm Hyun(nickname xtring)!
+### 👋🏻 Hello, I'm Hyun(Mark)!
 
 I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
 
