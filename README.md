@@ -12,7 +12,6 @@ If you want to contact me, please leave me a message!
 <br />
 
 ### 🛠 Skills
-I'm using 
  - **JavaScript(ES6) & TypeScript**
  - **React**
  - **React Native**
