@@ -13,11 +13,19 @@ If you want to contact me, please leave me a message!
 
 ### 🛠 Skills
 I'm using 
+ - **JavaScript(ES6) & TypeScript**
  - **React**
  - **React Native**
- - **JavaScript(ES6) & TypeScript**
- - **iOS(Swift)**
  - **Spring Framework(Java)**
+ - **iOS(Swift)**
+
+
+<br />
+
+### 🐋 Interesting
+ - **Team work**
+ - **Fintech** & **E-commerce**
+ - **Web based development**
 
 <br />
 
