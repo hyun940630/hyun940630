@@ -23,7 +23,7 @@ If you want to contact me, please leave me a message!
 
 ### 🐋 Interesting
  - **Team work**
- - **Fintech** & **E-commerce**
+ - **Fintech** & **Space Information**
  - **Web based development**
 
 <br />
