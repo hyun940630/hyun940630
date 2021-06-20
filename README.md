@@ -21,7 +21,8 @@ I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beaut
 ### 🐋 Interesting
  - **Team work**
  - **Web development**
- - **Mobile**
+ - **Mobile development**
+ - **ML, Data science**
 
 <br />
 
