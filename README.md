@@ -5,7 +5,7 @@
 
 I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
 
-[More](https://xtring-dev.tistory.com/)
+[Tech Blog](https://xtring-dev.tistory.com/)
 
 <br />
 
