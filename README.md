@@ -3,7 +3,7 @@
 
 ### 👋🏻 Hello, I'm Hyun(Mark)!
 
-I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beautiful UX/UI. I work every day to achieve my dream as a developer.
+I am a Software Engineer(front-end bias) from South Korea 🇰🇷. I love beautiful UX/UI, Front-end Development, Mobile Development. I work every day to achieve my dream as a developer.
 
 [Tech Blog](https://xtring-dev.tistory.com/)
 
